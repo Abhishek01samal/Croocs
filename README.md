@@ -16,7 +16,7 @@ Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-I
+I created this project to improve my skills 
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
