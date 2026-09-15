@@ -10,7 +10,7 @@ This project is built using **Vite, React, TypeScript, shadcn/ui, and Tailwind C
 
 ### Prerequisitessagiugvis
 vp ajH 
- l;ojolj ; 
+ l;ojolj ; sakjbvibin kn
 
   ';k '
   dk p'
