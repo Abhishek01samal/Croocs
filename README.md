@@ -8,7 +8,14 @@ I created this project to improve my development skills and gain hands-on experi
 
 This project is built using **Vite, React, TypeScript, shadcn/ui, and Tailwind CSS**.
 
-### Prerequisites
+### Prerequisitessagiugvis
+vp ajH 
+ l;ojolj ; 
+
+  ';k '
+  dk p'
+  ds[ k[
+  d
 ankbkjvbk
 Make sure you have **Node.js** and **npm** installed on your system.
 
