@@ -5,18 +5,11 @@
 I created this project to improve my development skills and gain hands-on experience building modern web applications.
 
 ## How to Run the Project
-d lnJB
+
 This project is built using **Vite, React, TypeScript, shadcn/ui, and Tailwind CSS**.
 
-### Prerequisitessagiugvis
-vp ajH 
- l;ojolj ; sakjbvibin kn
+### Prerequisites
 
-  ';k '
-  dk p'
-  ds[ k[
-  d
-ankbkjvbk
 Make sure you have **Node.js** and **npm** installed on your system.
 
 ### Installation
